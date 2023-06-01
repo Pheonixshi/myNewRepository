@@ -1,0 +1,23 @@
+{
+    "employeeid": "123456",
+    "fname": "Zied",
+    "lname": "Zaier",
+    "sin": 123456789,
+    "retired": false,
+    "salary": 9999.99,
+    "address": {
+        "streetnumber": 1001,
+        "streetname": "Sherbrooke",
+        "postalcode": "H3S1S1"
+    },
+    "projects": [{
+            "name": "mobile app project",
+            "nbrh": 55
+        }, {
+            "name": "Backend project",
+            "nbrh": 77
+        }, {
+            "name": "Database project",
+            "nbrh": 100
+        }]
+}
